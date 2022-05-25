@@ -1,2 +1,2 @@
 # myContacts
-my Contacts - card
+my Contacts - vcard
